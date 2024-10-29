@@ -4,10 +4,10 @@
 node_modules/
 
 # Expo
-.expo/
+rn/.expo/
 dist/
 web-build/
-
+.idea
 # Native
 *.orig.*
 *.jks
